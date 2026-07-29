@@ -4,7 +4,7 @@ This repository holds the per-operation coding record behind Section III of "The
 
 ## What the file contains
 
-`PSD_Failure_Frame_reconstruction_v5.xlsx` carries two sheets.
+`PSD_coding_annex_FY24-25.xlsx` carries two sheets.
 
 **`Adjudication`** holds one row for each of the 122 operations that carry theme code 120000 as a major theme in fiscal years 2024 and 2025 and that have a publicly disclosed appraisal-stage document. Sixteen columns record, for each operation, its identifier, country, name, fiscal year, instrument, and commitment; the basis on which the commitment amount was taken; the gate decision, which records whether the operation is substantially a private sector operation; the verdict returned by the deterministic application of the protocol, together with the hurdles at which it failed; the result of an independent machine reading; the source of any adjudication that departed from the deterministic verdict; the final verdict, the first hurdle at which the operation failed, and the failure mode; and the market failure that the appraisal itself names.
 
@@ -23,11 +23,9 @@ The chain from the workbook to the paper runs as follows.
 | Less operations that are not substantially private sector | 68 | The gate |
 | Less budget support and results-based lending | 45 | Clause A: these operations are governed by the rule-writing test rather than by the three hurdles |
 | Less operations placing no Bank capital in a commercially supplied market | 35 | Clause B, measured at component level in the companion census |
-| Less operations carrying no Bank commitment | 29 or 30 | Amendment 6 (M6): financing recorded under Non-World Bank Group Financing is not Bank commitment |
+| Less operations carrying no Bank commitment | 29 | Amendment 6 (M6): financing recorded under Non-World Bank Group Financing is not Bank commitment |
 
-Of the 35 operations at the second-to-last step, 27 cannot demonstrate additionality. The final row is the frame the paper reports, and it depends on a ruling recorded in the paper's protocol register.
-
-> **Before publication.** The final row and the count on it turn on the disposition of one operation, P173890, and that ruling is not yet settled in the deposited record. Resolve it and state the resulting figures here.
+Of the 35 operations at the second-to-last step, 27 cannot demonstrate additionality. The final row is the frame the paper reports: 29 operations enter a commercially supplied market and 21 of them cannot demonstrate additionality. P173890 is counted as entering on its 29.6 percent upper-bound commercial share, and it leaves the frame at the final row under M6.
 
 ## What is not in this file
 
